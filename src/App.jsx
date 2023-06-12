@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <h1>Hola Valo</h1>
+      <h1>Hola como estas?</h1>
       <button onClick={funcionSaludar}>Saludar</button>
       <Footer />
     </div>
